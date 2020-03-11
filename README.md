@@ -6,4 +6,4 @@
 * Classes Objects -> /src/classe
 * Exception -> /src/exception 
 * Fonction -> /src/fonction
-* Bonne orga -> /src/org/
+* Bonne orga & Interface-> /src/org/
